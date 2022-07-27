@@ -5,6 +5,6 @@ WhatsUp.txt
 3. Last Seen Code
 4. Attachments (image,audio,video) Code
 5. Hide Last seen Code
-6. Adding the Audio call feature
-7. Adding the video Call feature
+6. Adding the Audio call feature upto 10 users
+7. Adding the video Call feature upto 10 users
 8. Adding options to create groups upto 200 users
