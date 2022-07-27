@@ -3,7 +3,7 @@ WhatsUp.txt
 1. Profile Page Code
 2. Chat Screen Code
 3. Last Seen Code
-4. Attachments (image,audio,video) Code
+4. Attachments (image,audio,video,documents) Code
 5. Hide Last seen Code
 6. Adding the Audio call feature upto 10 users
 7. Adding the video Call feature upto 10 users
