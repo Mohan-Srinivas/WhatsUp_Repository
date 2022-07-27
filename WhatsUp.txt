@@ -7,4 +7,4 @@ WhatsUp.txt
 5. Hide Last seen Code
 6. Adding the Audio call feature
 7. Adding the video Call feature
-8. Adding options to create groups upto 100 users
+8. Adding options to create groups upto 200 users
