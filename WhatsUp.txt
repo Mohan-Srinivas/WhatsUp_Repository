@@ -8,4 +8,5 @@ WhatsUp.txt
 6. Adding the Audio call feature upto 10 users
 7. Adding the video Call feature upto 10 users
 8. Adding payment feature
-9. Adding options to create groups upto 100 users
+9. Adding options to create groups upto 200 users 
+
