@@ -4,3 +4,4 @@ WhatsUp.txt
 2. Chat Screen Code
 3. Last Seen Code
 4. Attachments (image,audio,video) Code
+5. Hide Last seen Code
